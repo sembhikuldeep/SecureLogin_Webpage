@@ -26,54 +26,7 @@ This project demonstrates basic authentication, form handling, and web security 
 
 ---
 
-## 📂 Project Structure
 
-
-Secure-Login-Page
-│
-├── app.py
-├── templates
-│ └── login.html
-│
-└── static
-└── style.css
-
-
----
-
-## ⚙️ Installation & Setup
-
-1️⃣ Clone the repository
-
-
-git clone https://github.com/yourusername/secure-login-page.git
-
-
-2️⃣ Navigate to the project folder
-
-
-cd secure-login-page
-
-
-3️⃣ Install Flask
-
-
-pip install flask
-
-
-4️⃣ Run the application
-
-
-python app.py
-
-
-5️⃣ Open in browser
-
-
-http://127.0.0.1:5000
-
-
----
 
 ## 📚 Learning Objectives
 
